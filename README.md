@@ -6,3 +6,4 @@ My solutions to NeetCode 150 + Leetcode Problems
 |---|---------|------------|-------|---------|
 | 1 | Contains Duplicate | Easy | Arrays, Hashing, Sorting | [link](neetcode-150/easy/001-contains-duplicate.java) |
 | 2 | Valid Anagram | Easy | HashTable, String, Sorting | [link](neetcode-150/easy/002-valid-anagram.java) |
+| 3 | Two Sum | Easy | Array, HashTable | [link](neetcode-150/easy/003-two-sum.java) |
