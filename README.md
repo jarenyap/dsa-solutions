@@ -8,3 +8,4 @@ My solutions to NeetCode 150 + Leetcode Problems
 | 2 | Valid Anagram | Easy | HashTable, String, Sorting | [link](neetcode-150/easy/002-valid-anagram.java) |
 | 3 | Two Sum | Easy | Array, HashTable | [link](neetcode-150/easy/003-two-sum.java) |
 | 4 | Valid Palindrome | Easy | Two Pointers, String | [link](neetcode-150/easy/004-valid-palindrome.java) |
+| 5 | Binary Search | Easy | Array, Binary Search | [link](neetcode-150/easy/005-binary-search.java) |
