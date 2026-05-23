@@ -9,3 +9,4 @@ My solutions to NeetCode 150 + Leetcode Problems
 | 3 | Two Sum | Easy | Array, HashTable | [link](neetcode-150/easy/003-two-sum.java) |
 | 4 | Valid Palindrome | Easy | Two Pointers, String | [link](neetcode-150/easy/004-valid-palindrome.java) |
 | 5 | Binary Search | Easy | Array, Binary Search | [link](neetcode-150/easy/005-binary-search.java) |
+| 6 | Best Time to Buy and Sell Stock | Array, Dynamic Programming | [link](neetcode-150/easy/006-best-time-to-buy-and-sell-stock.java) | 
